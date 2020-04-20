@@ -9,3 +9,6 @@ Pil
 tkinter
 pytesseract
 keyboard
+
+https://media.giphy.com/media/kcHKXnw3FiGMr65U2I/giphy.gif
+https://giphy.com/gifs/kcHKXnw3FiGMr65U2I/html5
