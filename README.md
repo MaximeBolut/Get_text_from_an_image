@@ -1,7 +1,7 @@
 # Get_text_from_an_image
 Take a snapshot and extract the text from it!
 
-Text extraction image is made with pytesseract that need to be installed
+Text extraction image is made with pytesseract that needs to be installed.
 GUI wit Tkinter (tkinter for python 3)
 
 Dependency:
